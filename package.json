@@ -1,0 +1,31 @@
+{
+  "name": "postgres-express",
+  "version": "1.0.0",
+  "description": "A CRUD app for users",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichardAnthonySanchez/postgres-express.git"
+  },
+  "keywords": [
+    "postgres",
+    "express"
+  ],
+  "author": "richard anthony sanchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RichardAnthonySanchez/postgres-express/issues"
+  },
+  "homepage": "https://github.com/RichardAnthonySanchez/postgres-express#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "pg": "^8.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
